@@ -1,0 +1,8 @@
+{
+  "name": "Copypaste.dev",
+  "description": "Une boutique ultra-simple de snippets HTML, CSS et JS prêts à l'emploi, pensée pour les développeurs qui veulent livrer plus vite.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
